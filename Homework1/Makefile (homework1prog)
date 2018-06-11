@@ -1,0 +1,5 @@
+display: homework1prog.o
+        g++ -o display homework1prog.o
+homework1prog.o:
+        g++ -c homework1prog.cpp
+
