@@ -1,0 +1,4 @@
+display: homework1fan.o
+        g++ -o display homework1fan.o
+homework1fan.o:
+        g++ -c homework1fan.cpp
